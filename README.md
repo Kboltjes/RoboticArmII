@@ -1,3 +1,1 @@
-# RoboticArmII
-
-The Arduino code for Robot Arm II.
+# RoboticArm_IT2
